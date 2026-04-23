@@ -148,7 +148,7 @@ platform :ios do
       groups: [
         "DERCA Manitoba for Children and Adolescents",
         "KFMC King Fahad Medical City",
-        "LEADS Logan Endocrine and Diabetes Services,
+        "LEADS Logan Endocrine and Diabetes Services",
         "MAIPP Manitoba Adult Insulin Pump Program",
         "MUHC Montreal Children's Hospital",
         "SK Endocrinology and Diabetes Program"
